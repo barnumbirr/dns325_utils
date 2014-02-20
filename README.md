@@ -1,5 +1,5 @@
 ============
-<h1><img src="https://dl.dropboxusercontent.com/u/104383069/dlink.ico" alt="dlinkicon" title="dlinkicon"> dns325_utils</h1>
+<h1><img src="https://raw.github.com/c0ding/WDCinfo/master/images/dlink.ico" alt="dlinkicon" title="dlinkicon"> dns325_utils</h1>
 
 All the stuff I use to customize my D-Link DNS-325 NAS.
 
